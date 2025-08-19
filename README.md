@@ -1,4 +1,5 @@
 Rock Paper Scissors Game 🎮✊✋✌️
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 Play against the computer, test your luck, and see if you can win!
